@@ -1,22 +1,6 @@
 * { outline: 1px solid red;
 }
 
-body {
-    display: flex;
-}
-
 .header {
-   background-color: #1F2937;
-}
-
-.hero{
-    background-color: #1F2937;
-}
-
-.content {
-    background-color: white;
-}
-
-.footer {
     background-color: #1F2937;
 }
