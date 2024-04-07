@@ -31,3 +31,9 @@ a {
 .hero {
     background-color: #1F2937;
 }
+
+.hero-header {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
