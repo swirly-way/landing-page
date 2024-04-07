@@ -32,8 +32,9 @@ a {
 .hero {
     background-color: #1F2937;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
+    height: 
 }
 
 .hero-header {
