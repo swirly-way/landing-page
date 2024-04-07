@@ -61,3 +61,16 @@ a {
     font-weight: 900;
     color: #1F2937;
 }
+
+.main-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.item {
+    padding: 50px;
+    max-width: 200px;
+
+}
