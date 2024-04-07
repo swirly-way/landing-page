@@ -45,6 +45,14 @@ a {
 
 .hero-info {
      height: 300px;
+     width: auto;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+}
+
+.hero-image {
+    width:300px;
 }
 
 .hero-text {
