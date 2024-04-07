@@ -37,6 +37,10 @@ a {
     height: auto;
 }
 
+.hero-content {
+    display: flex;
+}
+
 .hero-header {
     font-size: 48px;
     font-weight: 900;
