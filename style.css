@@ -70,6 +70,7 @@ a {
 
 .btn-hero{
     background-color: #3882F6;
+    border-radius: 5px;
 }
 
 .main {
@@ -108,3 +109,7 @@ a {
     margin-top: 10px;
 }
 
+.btn-action {
+    background-color: #3882F6;
+    border-radius: 5px;
+}
