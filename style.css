@@ -130,6 +130,12 @@ a {
     justify-content: center;
 }
 
+.quote-text {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+}
+
 .btn-action {
     background-color: #3882F6;
     border-radius: 5px;
