@@ -115,6 +115,11 @@ a {
     margin-top: 10px;
 }
 
+.main-quote {
+    background-color: #E5E7EB;
+}
+
+
 .btn-action {
     background-color: #3882F6;
     border-radius: 5px;
