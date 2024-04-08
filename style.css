@@ -144,6 +144,23 @@ a {
     font-weight: bold;
 }
 
+.call-container {
+    background-color: #3882F6;
+    display: flex;
+    border-radius: 6px;
+    width: 700px;
+    height: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 .btn-action {
     background-color: #3882F6;
     border-radius: 5px;
