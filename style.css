@@ -56,7 +56,7 @@ a {
 }
 
 .hero-info-2 {
-    width:300px;
+    width:auto;
     height: 300px;
      display: flex;
      flex-direction: column;
