@@ -190,7 +190,6 @@ a {
 .footer {
     background-color: #1F2937;
     display: flex;
-    align-items: flex-end;
     justify-content: center;
     padding: 30px;
 }
