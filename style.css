@@ -136,6 +136,13 @@ a {
     color: #1F2937;
 }
 
+.quote-author {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 26px;
+    font-weight: bold;
+}
+
 .btn-action {
     background-color: #3882F6;
     border-radius: 5px;
