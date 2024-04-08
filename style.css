@@ -107,6 +107,8 @@ a {
     border-radius: 5px;
     width: auto;
     height: 200px;
+    box-sizing: border-box;
+    overflow: hidden
 }
 
 .subtext {
