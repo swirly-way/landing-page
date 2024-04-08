@@ -39,6 +39,7 @@ a {
 
 .hero-content {
     display: flex;
+    width: 800px;
 }
 
 .hero-header {
