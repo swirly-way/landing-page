@@ -167,6 +167,10 @@ a {
     font-weight: bold;
 }
 
+.text-subtext {
+    color:#ffffff;
+}
+
 .btn-action {
     background-color: #3882F6;
     border-radius: 5px;
